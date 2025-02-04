@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Eazybank Loans related Service PROD Env API's"
+  message: "Welcome to Eazybank Loans related Service PRODUCTION Env API's"
   contactDetails:
     name: "Navami - Developer"
     email: "navami@example.com"
