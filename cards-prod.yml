@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Eazybank Cards related Service PROD Env API's"
+  contactDetails:
+    name: "Navami - Developer"
+    email: "navami@example.com"
+  onCallSupport:
+      -(+91) 132547893
+      -(+91) 132547893

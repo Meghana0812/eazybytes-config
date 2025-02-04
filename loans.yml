@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazybank Loans related Service API's"
+  contactDetails:
+    name: "Megha - Developer"
+    email: "megha@example.com"
+  onCallSupport:
+    -(+91) 132547893
+    -(+91) 132547893
+
