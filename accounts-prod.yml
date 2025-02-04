@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Eazybank Accounts related Service PRODUCTION Env API's"
+  message: "Welcome to Eazybank Accounts related Service PROD Env API's"
   contactDetails:
     name: "Navami - Developer"
     email: "{cipher}162b727661e84f5ac676cb6a0f44fe8e63aa542a268299a68b13371e6cc42252684617217b8f848fa82e3f07035826b7"
